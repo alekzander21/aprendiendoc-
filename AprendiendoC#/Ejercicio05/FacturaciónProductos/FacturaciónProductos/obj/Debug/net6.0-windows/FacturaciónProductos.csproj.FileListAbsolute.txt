@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\bin\Debug\net6.0-windows\FacturaciónProductos.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\bin\Debug\net6.0-windows\FacturaciónProductos.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\bin\Debug\net6.0-windows\FacturaciónProductos.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\bin\Debug\net6.0-windows\FacturaciónProductos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\bin\Debug\net6.0-windows\FacturaciónProductos.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\refint\FacturaciónProductos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\FacturaciónProductos.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio05\FacturaciónProductos\FacturaciónProductos\obj\Debug\net6.0-windows\ref\FacturaciónProductos.dll

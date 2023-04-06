@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\bin\Debug\net6.0-windows\CalcularPromedio.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\bin\Debug\net6.0-windows\CalcularPromedio.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\bin\Debug\net6.0-windows\CalcularPromedio.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\bin\Debug\net6.0-windows\CalcularPromedio.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\bin\Debug\net6.0-windows\CalcularPromedio.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\refint\CalcularPromedio.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\CalcularPromedio.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio03\CalcularPromedio\CalcularPromedio\obj\Debug\net6.0-windows\ref\CalcularPromedio.dll

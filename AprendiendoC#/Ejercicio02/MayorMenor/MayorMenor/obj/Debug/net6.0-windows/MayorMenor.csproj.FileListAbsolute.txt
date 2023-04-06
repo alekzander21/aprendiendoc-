@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\bin\Debug\net6.0-windows\MayorMenor.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\bin\Debug\net6.0-windows\MayorMenor.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\bin\Debug\net6.0-windows\MayorMenor.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\bin\Debug\net6.0-windows\MayorMenor.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\bin\Debug\net6.0-windows\MayorMenor.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\refint\MayorMenor.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\MayorMenor.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio02\MayorMenor\MayorMenor\obj\Debug\net6.0-windows\ref\MayorMenor.dll

@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\refint\NumerosPrimos.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio06\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\ref\NumerosPrimos.dll

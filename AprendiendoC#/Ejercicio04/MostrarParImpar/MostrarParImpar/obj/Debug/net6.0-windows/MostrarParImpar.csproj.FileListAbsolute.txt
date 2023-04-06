@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\bin\Debug\net6.0-windows\MostrarParImpar.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\bin\Debug\net6.0-windows\MostrarParImpar.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\bin\Debug\net6.0-windows\MostrarParImpar.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\bin\Debug\net6.0-windows\MostrarParImpar.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\bin\Debug\net6.0-windows\MostrarParImpar.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\refint\MostrarParImpar.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\MostrarParImpar.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio04\MostrarParImpar\MostrarParImpar\obj\Debug\net6.0-windows\ref\MostrarParImpar.dll

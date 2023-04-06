@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\bin\Debug\net6.0-windows\AprendiendoC#.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\bin\Debug\net6.0-windows\AprendiendoC#.deps.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\bin\Debug\net6.0-windows\AprendiendoC#.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\bin\Debug\net6.0-windows\AprendiendoC#.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\bin\Debug\net6.0-windows\AprendiendoC#.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC_.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\refint\AprendiendoC#.dll
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\AprendiendoC#.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\AprendiendoC#\AprendiendoC#\obj\Debug\net6.0-windows\ref\AprendiendoC#.dll

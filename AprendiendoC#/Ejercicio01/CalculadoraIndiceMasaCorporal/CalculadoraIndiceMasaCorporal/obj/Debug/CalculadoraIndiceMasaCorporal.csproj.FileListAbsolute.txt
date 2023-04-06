@@ -1,0 +1,11 @@
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\bin\Debug\CalculadoraIndiceMasaCorporal.exe.config
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\bin\Debug\CalculadoraIndiceMasaCorporal.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\bin\Debug\CalculadoraIndiceMasaCorporal.pdb
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.Form1.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.Properties.Resources.resources
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.exe
+C:\Users\Fabrizio\Desktop\ProyectosC#\AprendiendoC#\Ejercicio01\CalculadoraIndiceMasaCorporal\CalculadoraIndiceMasaCorporal\obj\Debug\CalculadoraIndiceMasaCorporal.pdb
