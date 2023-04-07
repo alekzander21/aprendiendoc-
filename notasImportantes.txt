@@ -1,0 +1,34 @@
+-Para validar los campos de texto de un formulario se usa
+string.IsNullOrEmpty(clase_dato dato){
+condicion
+}
+
+-El método return permite devolver el valor de la función
+que estamos ejecutando para poder utilizando en cual quier otro método
+
+-Para realizar conexions a MYSQLI en c# se utiliza la libreria
+Mysql.DATA
+
+Ejemplo de Conexión
+La siguiente función podemos reutilizar en cualquier parte de nuestro proyecto
+para realizar operaciones que tengan la necesidad de una conexion a una base de datos relacional
+
+        public static MySqlConnection Conectar()
+        {
+            string servidor = "localhost";
+            string user = "root";
+            string pass = "";
+            string database = "GestionEmpleados";
+
+            string conn = "Database=" + database + "; Data Source=" + servidor + "; User Id=" + user + "; Password= " + pass + "";
+            
+            MySqlConnection conexiondb = new MySqlConnection(conn);
+            conexiondb.Open();  
+            conexiondb.Close(); 
+
+            return conexiondb;  
+        }
+
+
+-En los controladores se realiza toda la lógica de nuestra aplicación y verificar
+que los datos estén correctamente planificados
